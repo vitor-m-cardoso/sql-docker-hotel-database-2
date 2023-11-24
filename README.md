@@ -29,6 +29,6 @@
 
 ## Objetivo
 
-- Continuar a modelar o banco de dados para gestão um hotel;
+- Continuar a modelagem do banco de dados para gestão de um hotel;
 - Aplicar comandos para **filtrar**, **atualizar** e **remover** dados;
 - Colocar em prática a habilidade de **alterar** uma tabela, adicionando novas coluna.
